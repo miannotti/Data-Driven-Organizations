@@ -1,1 +1,29 @@
+Invoice ID
+Computer-generated sales invoice identification number.
 
+Branch
+Supermarket branch (A, B, or C).
+
+City
+Location of the supermarket.
+
+Customer type
+Type of customer: Member (with loyalty card) or Normal (without membership).
+
+Gender
+Customer gender.
+
+Product line
+Category of products purchased.
+
+Unit price
+Price per unit of the product (in $).
+
+Quantity
+Number of units purchased.
+
+Tax (5%)
+Tax applied to the purchase (5%).
+
+Total
+Total transaction amount, including tax.
