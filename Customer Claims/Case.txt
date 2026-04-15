@@ -1,0 +1,63 @@
+# Claims
+
+Understanding how customer characteristics relate to differences in observed costs.
+
+---
+
+## Overview
+
+This case explores how different characteristics are associated with variation in observed costs.
+
+The dataset includes 1,338 individuals, with demographic and behavioral variables such as age, gender, BMI, number of dependents, smoking status, and region.
+
+For each individual, total charges are observed.
+
+---
+
+## Objective
+
+The goal is not only to describe the data, but to understand:
+
+- Why some customers generate higher costs  
+- Which factors are associated with those differences  
+- How multiple characteristics combine to shape outcomes  
+
+---
+
+## Business Context
+
+This is a cost and risk problem:
+
+- Costs are not evenly distributed  
+- Customers do not represent the same level of risk  
+- Outcomes are shaped by multiple interacting factors  
+
+---
+
+## Variables
+
+| Variable   | Description |
+|------------|------------|
+| age        | Age of the individual |
+| sex        | Gender (male, female) |
+| bmi        | Body Mass Index, proxy for health condition |
+| children   | Number of dependents covered |
+| smoker     | Smoking status (yes, no) |
+| region     | Geographic area (northeast, northwest, southeast, southwest) |
+| charges    | Total charges associated with the individual |
+
+---
+
+## Why it matters
+
+Understanding these patterns can support:
+
+- Pricing decisions  
+- Risk segmentation  
+- Customer management  
+
+---
+
+## Key idea
+
+Costs are not driven by a single factor, but by the interaction of multiple variables.
